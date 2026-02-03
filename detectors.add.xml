@@ -1,0 +1,9 @@
+<additional>
+    <laneAreaDetector id="det_minus_E0" lane="-E0_0" freq="1" file="detector_output.xml"/>
+    
+    <laneAreaDetector id="det_E1" lane="E1_0" freq="1" file="detector_output.xml"/>
+    
+    <laneAreaDetector id="det_E0" lane="E0_0" freq="1" file="detector_output.xml"/>
+    
+    <laneAreaDetector id="det_minus_E2" lane="-E2_0" freq="1" file="detector_output.xml"/>
+</additional>

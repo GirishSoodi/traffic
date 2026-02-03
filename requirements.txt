@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+tensorflow>=2.9
+scikit-learn
+sumolib
+traci
